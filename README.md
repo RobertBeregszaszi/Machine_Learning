@@ -1,1 +1,1 @@
-Random ML libraries to test various stuff
+This is a repository for various tests and experiments.
